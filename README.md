@@ -6,3 +6,14 @@ This is Linux based tools written in Python. This tool works quite slimier to Ba
 # How to execute lipy in linux (Cloud Shell)
 Download the ziped file > unzip > move the file to cloud shell > give executable permission to the user mode > move or copy the file to /bin folder > type "Lipy"
 
+# Basic Arithmetical Calculation
+<img src = "demo/demo 1.jpg" alt = "no">
+
+# Dealing inbuild functions 
+<img src = "demo/demo 2.jpg" alt = "no">
+
+# Create a Even/Odd Program using Lipy
+<img src = "demo/demo 3.jpg" alt = "no">
+
+<strong> <p> Project Develped By : Soujatya Bhattacharya </p> </strong>
+
