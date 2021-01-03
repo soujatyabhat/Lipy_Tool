@@ -3,6 +3,8 @@ This is Linux based tools written in Python. This tool works quite slimier to Ba
 
 <p> <strong> Demo Video : </strong> </p> https://bit.ly/3862RBI
 
+<p> <strong> Give me feedback : </strong> </p> https://lipytools.000webhostapp.com/
+
 # How to execute lipy in linux (Cloud Shell)
 Download the ziped file > unzip > move the file to cloud shell > give executable permission to the user mode > move or copy the file to /bin folder > type "Lipy"
 
