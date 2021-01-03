@@ -9,7 +9,7 @@ Download the ziped file > unzip > move the file to cloud shell > give executable
 # Basic Arithmetical Calculation
 <img src = "demo/demo 1.JPG" alt = "no">
 
-# Dealing inbuild functions 
+# Dealing with inbuild functions 
 <img src = "demo/demo 2.JPG" alt = "no">
 
 # Create a Even/Odd Program using Lipy
