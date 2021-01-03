@@ -10,10 +10,10 @@ Download the ziped file > unzip > move the file to cloud shell > give executable
 <img src = "demo/demo 1.JPG" alt = "no">
 
 # Dealing inbuild functions 
-<img src = "demo/demo 2.jpg" alt = "no">
+<img src = "demo/demo 2.JPG" alt = "no">
 
 # Create a Even/Odd Program using Lipy
-<img src = "demo/demo 3.jpg" alt = "no">
+<img src = "demo/demo 3.JPG" alt = "no">
 
 <strong> <p> Project Develped By : Soujatya Bhattacharya </p> </strong>
 
